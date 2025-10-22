@@ -1,1 +1,2 @@
-##These are my react learnings from hitesh choudhary sir.
+# These are my react learnings from hitesh choudhary sir.
+ Curated collection of React practice, notes, and mini-projects completed while following Hitesh Choudhary’s React lessons from Udemy. This repo tracks concepts from fundamentals to advanced patterns with runnable examples.
